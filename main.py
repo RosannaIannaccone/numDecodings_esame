@@ -18,4 +18,4 @@ The test cases are generated so that the answer fits in a 32-bit integer.
 from typing import List
 
 def numDecodings(s: str) -> int:
-    pass
+    a+b=c
